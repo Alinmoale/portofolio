@@ -215,13 +215,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    href: "https://github.com/Alinmoale",
   },
   {
     id: 2,
     img: "/twit.svg",
+    href: "https://x.com/Alinmoale",
   },
   {
     id: 3,
     img: "/link.svg",
+    href: "https://www.linkedin.com/in/alin-moale-48a387225/",
   },
 ];
