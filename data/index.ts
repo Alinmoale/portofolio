@@ -117,31 +117,31 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Alin was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Alin's enthusiasm for every facet of development truly stands out. If you're seeking to enhance your website and elevate your brand, Alin is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Working with Alin was an outstanding experience. Her expertise, attention to detail, and commitment to excellence made a significant impact on our project. Alin's ability to turn ideas into reality is truly impressive. If you're looking for a developer who will bring your vision to life with precision and passion, Alin is the one to choose.",
+    name: "Emily Davis",
+    title: "CEO of Innovate Digital Solutions",
+  },
+  {
+    quote:
+      "Collaborating with Alin was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Alin's enthusiasm for every facet of development truly stands out. If you're seeking to enhance your website and elevate your brand, Alin is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Alin was an outstanding experience. Her expertise, attention to detail, and commitment to excellence made a significant impact on our project. Alin's ability to turn ideas into reality is truly impressive. If you're looking for a developer who will bring your vision to life with precision and passion, Alin is the one to choose.",
+    name: "Emily Davis",
+    title: "CEO of Innovate Digital Solutions",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Alin was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Alin's enthusiasm for every facet of development truly stands out. If you're seeking to enhance your website and elevate your brand, Alin is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
